@@ -13,7 +13,7 @@
 ## 關於我
 
 - 💼 目前積極尋找 Frontend / Full-Stack Developer 職缺
-- 🎨 具備設計、繪畫與創作背景，重視 UI、資訊結構與使用者體驗
+- 🎨 具備景觀設計、繪畫與創作背景，重視 UI、資訊結構與使用者體驗
 - 💊 曾任職藥廠無菌製程相關工作，累積 SOP、紀錄與異常處理經驗
 - 💻 目前主要使用 React、Next.js、TypeScript、NestJS 與 ASP.NET Core
 - 🚀 喜歡從需求拆解、API、資料庫到前端介面完成完整功能
